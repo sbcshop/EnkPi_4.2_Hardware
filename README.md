@@ -8,6 +8,6 @@ Powered with Raspberry Pi Pico W, these EnkPi boards have Partial Refresh Suppor
 In this github repo you will find hardware files for EnkPi 4.2".
 
 ### Repository Contents:
-  - [/Design Data](https://github.com/sbcshop/EnkPi_4.2_Hardware/tree/main/Design%20Data) - This directory contains Schematic and Dimension files
-  - [/Mecahnical Data](https://github.com/sbcshop/EnkPi_4.2_Hardware/tree/main/Mechanical%20Data) - This directory contains 3D and STEP files
+  - [/Design Data](https://github.com/sbcshop/EnkPi_4.2_Hardware/tree/main/Design%20Data) - This directory contains Schematic, Top and Bottom View
+  - [/Mecahnical Data](https://github.com/sbcshop/EnkPi_4.2_Hardware/tree/main/Mechanical%20Data) - This directory contains Dimension, 3D and STEP files
   - [EnkPi_4.2" Getting Started](https://github.com/sbcshop/EnkPi_4.2_Software) - This repo contains EnkPi 4.2" Getting Started Guide and Sample Codes.
